@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Ce sweat à capuche est la solution parfaite pour allier confort et style. Il est confortable grâce à sa fabrication en coton Airlume et polaire polyester, stylé avec son ourlet brut et ses épaules tombantes, et éthiquement produit garantissant un impact minimal sur l'environnement. Le matériau offre une douceur inégalée, faisant de ce sweat à capuche un choix idéal pour les activités quotidiennes ou les moments de détente.
 ---
