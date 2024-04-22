@@ -4,7 +4,7 @@ modal-id: 1
 date: 2024-04-23
 img: cabin.png
 alt: image-alt
-project-date: Livraison estimée vers la France sous 8⁠–17 jours
+project-date: Livraison estimée en France sous 8⁠–17 jours
 client: femmes actives et modernes, telles que les étudiantes, les jeunes professionnelles, ou les amateurs de mode décontractée.
 category: Disponible en tailles variant de S à 2XL et en plusieurs coloris.
 description: Ce sweat à capuche est la solution parfaite pour allier confort et style. Il est confortable grâce à sa fabrication en coton Airlume et polaire polyester, stylé avec son ourlet brut et ses épaules tombantes, et éthiquement produit garantissant un impact minimal sur l'environnement. Le matériau offre une douceur inégalée, faisant de ce sweat à capuche un choix idéal pour les activités quotidiennes ou les moments de détente.
