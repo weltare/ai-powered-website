@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2024-04-23
+img: cropped-hoodie.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Livraison estimée vers la France sous 8⁠–17 jours
+client: femmes actives et modernes, telles que les étudiantes, les jeunes professionnelles, ou les amateurs de mode décontractée.
+category: Disponible en tailles variant de S à 2XL et en plusieurs coloris.
+description: Ce sweat à capuche est la solution parfaite pour allier confort et style. Il est confortable grâce à sa fabrication en coton Airlume et polaire polyester, stylé avec son ourlet brut et ses épaules tombantes, et éthiquement produit garantissant un impact minimal sur l'environnement. Le matériau offre une douceur inégalée, faisant de ce sweat à capuche un choix idéal pour les activités quotidiennes ou les moments de détente.
 ---
