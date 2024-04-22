@@ -6,7 +6,6 @@ img: submarine.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Le sweat à capuche écologique pour enfants est le choix idéal pour les parents soucieux de l'environnement et à la recherche de vêtements durables pour leurs enfants. Fabriqué à partir de coton biologique et de polyester recyclé, ce sweat offre chaleur et confort tout en soutenant des pratiques respectueuses de l'environnement. Doté d'une poche frontale pratique et de poignets côtelés, ce sweat à capuche est à la fois fonctionnel et tendance. Disponible en bleu, il est parfait pour les aventures quotidiennes des enfants. ![kids-eco-hoodie-black-front-66268db7d4223](https://github.com/neohack22/ai-powered-fundraising/assets/22855916/23139adc-18cd-4d61-a267-80a65f35830b)
-
+category: Sweat à capuche écologique enfant
+description: Le sweat à capuche écologique pour enfants est le choix idéal pour les parents soucieux de l'environnement et à la recherche de vêtements durables pour leurs enfants. Fabriqué à partir de coton biologique et de polyester recyclé, ce sweat offre chaleur et confort tout en soutenant des pratiques respectueuses de l'environnement. Doté d'une poche frontale pratique et de poignets côtelés, ce sweat à capuche est à la fois fonctionnel et tendance. Disponible en bleu, il est parfait pour les aventures quotidiennes des enfants.
 ---
