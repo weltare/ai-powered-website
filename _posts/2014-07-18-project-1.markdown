@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-04-23
-img: cropped-hoodie.png
+img: cabin.png
 alt: image-alt
 project-date: Livraison estimée vers la France sous 8⁠–17 jours
 client: femmes actives et modernes, telles que les étudiantes, les jeunes professionnelles, ou les amateurs de mode décontractée.
