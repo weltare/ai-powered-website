@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-04-23
-img: all-print-cropped-windbreaker.png
+img: all-print-recycled-hoodie-white-front.png
 alt: image-alt
 project-date: €133.50
 client: Sweat à capuche unisexe
