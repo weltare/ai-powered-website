@@ -56,7 +56,7 @@ address:
   - line: BKO
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Investir en mode IA est édité par <a href="https://ethercourt.github.io/strategies/">Ethercourt</a>.'
 
 # Build settings
 markdown: kramdown
