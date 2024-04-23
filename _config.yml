@@ -40,15 +40,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/neohack22
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/ethercourt
+  - title: linkedin
+    url: https://www.linkedin.com/company/ethercourt/?viewAsMember=true
+  - title: instagram
+    url: https://www.instagram.com/neohack22_lyricaption/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/neohack22/ai-powered-fundraising/
 
 # Postal address (add as many lines as necessary)
 address:
