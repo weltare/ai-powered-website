@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: maquette_livre.png
+date: 2024-04-23
+img: all-print-cropped-windbreaker.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Livres
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: €133.50
+client: Sweat à capuche unisexe
+category: 2XS à 6XL
+description: La solution parfaite pour ceux qui recherchent confort, durabilité et style. Fabriqué avec des matériaux recyclés et conçu avec une technologie avancée, ce sweat offre un confort inégalé tout en réduisant l'impact environnemental.
 ---
