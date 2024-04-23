@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2024-04-23
+img: eco-raglan-hoodie.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: €144
+client: Le Sweat à Capuche Unisexe Éco Raglan
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Ce sweat à capuche unisexe éco raglan est idéal pour les jeunes adultes soucieux de la mode et de l'environnement. Convient à ceux qui recherchent des vêtements confortables et tendance, fabriqués de manière éthique.
 ---
