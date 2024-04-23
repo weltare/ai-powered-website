@@ -6,6 +6,6 @@ img: heavy-blend-zip-hoodie.png
 alt: image-alt
 project-date: €121.50
 client: Le sweat à capuche zippé unisexe en mélange épais
-produit: Sweat à capuche écologique enfant
+category: S à 5XL
 description: Il convient à toute personne recherchant un vêtement chaud, confortable et polyvalent pour une utilisation quotidienne. Parfait pour les adultes de tous âges, hommes et femmes.
 ---
