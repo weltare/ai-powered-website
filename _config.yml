@@ -4,7 +4,7 @@ email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Livre - Chatbots - Produits dérivés"
+skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -25,38 +25,38 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 1fa3c5 #18bc9c 80B3FF
+  primary: 18bc9c #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 201d39 #2c3e50 FD6E8A
+  secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: Ethercourt Machine Learning
-  location: Emplacement
-  social: Autour du Web
-  credits: Crédits
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/neohack22
+    url: http://twitter.com/jekyllrb
   - title: facebook
-    url: https://www.facebook.com/ethercourt/
+    url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/chatbot
+    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
-    url: 
+    url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/neohack22/ai-powered-fundraising/
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: PAR
-  - line: BKO
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Révolutionner l'interaction investisseur par L’IA conversationnelle, fer de lance de la nouvelle génération de levées de fonds est édité par <a href="https://ethercourt.github.io/strategies/">Ethercourt</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
