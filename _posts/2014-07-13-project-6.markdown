@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2024-04-23
+img: heavy-blend-zip-hoodie.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: €121.50
+client: Le sweat à capuche zippé unisexe en mélange épais
 produit: Sweat à capuche écologique enfant
-description: Le sweat à capuche écologique pour enfants est le choix idéal pour les parents soucieux de l'environnement et à la recherche de vêtements durables pour leurs enfants. Fabriqué à partir de coton biologique et de polyester recyclé, ce sweat offre chaleur et confort tout en soutenant des pratiques respectueuses de l'environnement. Doté d'une poche frontale pratique et de poignets côtelés, ce sweat à capuche est à la fois fonctionnel et tendance. Disponible en bleu, il est parfait pour les aventures quotidiennes des enfants.
-
+description: Il convient à toute personne recherchant un vêtement chaud, confortable et polyvalent pour une utilisation quotidienne. Parfait pour les adultes de tous âges, hommes et femmes.
 ---
