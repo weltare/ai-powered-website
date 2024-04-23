@@ -6,8 +6,8 @@ img: maquette_livre.png
 alt: image-alt
 project-date: GUIDE PRATIQUE POUR LEVER DES FONDS PLUS EFFICACEMENT GRACE A L'IA CONVERSATIONNELLE
 Plongez au cœur des défis actuels de la levée de fonds et découvrez comment l'IA conversationnelle peut vous aider à :
-•	Valider votre potentiel auprès des investisseurs
-•	Optimiser votre stratégie de collecte de fonds
-•	Améliorer votre efficacité et gagner du temps
+-	Valider votre potentiel auprès des investisseurs
+-	Optimiser votre stratégie de collecte de fonds
+-	Améliorer votre efficacité et gagner du temps
 Plus qu'un simple guide, ce livre est un véritable compagnon de route pour les entrepreneurs ambitieux qui souhaitent lever des fonds et transformer leur vision en réalité.
 ---
