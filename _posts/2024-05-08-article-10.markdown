@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2024-05-08
-img: img/portfolio/organic-denim-tote-bag-denim-blue-right-front-663b93d5880c9.png
+img: organic-denim-tote-bag-denim-blue-right-front-663b93d5880c9.png
 alt: image-alt
 project-date: €79.50
 client: Le sac en Jean Écologique - WELTARE Bio
