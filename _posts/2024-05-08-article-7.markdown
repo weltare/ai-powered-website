@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2024-04-23
+date: 2024-05-08
 img: all-print-recycled-hoodie-white-front.png
 alt: image-alt
 project-date: €133.50
