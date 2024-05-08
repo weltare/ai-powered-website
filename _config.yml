@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: [Ethercourt Machine Learning](https://ethercourt.github.io/strategies/)
+  - line: <a href="https://weltare.github.io/strategies/">WELTARE Strategies</a>
   - line: BKO
 
 # Credits content
