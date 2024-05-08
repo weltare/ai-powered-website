@@ -5,7 +5,7 @@ date: 2024-05-08
 img: img/portfolio/organic-denim-tote-bag-denim-blue-right-front-663b93d5880c9.png
 alt: image-alt
 project-date: €79.50
-client:Le sac en Jean Écologique - WELTARE Bio
+client: Le sac en Jean Écologique - WELTARE Bio
 category: Unique
 description: Le sac en Jean Écologique WELTARE Bio est l'accessoire idéal pour les personnes soucieuses de l'environnement et à la recherche d'un sac à la fois élégant et pratique. Fabriqué à partir de coton 100 % biologique, ce sac est à la fois durable et doux au toucher. Son design spacieux peut accueillir votre livre, vos courses ou vos affaires du quotidien, tandis que sa poche intérieure vous permet de garder vos petits objets bien rangés.
 ---
