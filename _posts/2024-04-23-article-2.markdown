@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 7
-date: 2024-04-23
+modal-id: 2
+date: 2024-05-08
 img: kids-eco-hoodie-grey.png
 alt: image-alt
 project-date: €88.50
