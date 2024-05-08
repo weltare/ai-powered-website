@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2024-04-23
+date: 2024-05-08
 img: cropped-hoodie.png
-alt: image-alt
+alt: Le Sweat à capuche court
 project-date: €147
-client: Le Sweat à capuche court
+client: Le Sweat à capuche court - WELTARE Couture
 category: S à 2XL
 description: La solution parfaite pour ceux qui recherchent confort, style et praticité. Fabriqué avec des matériaux de haute qualité et conçu avec un design élégant, ce sweat à capuche offre une protection légère tout en assurant une respirabilité optimale. Que ce soit pour une journée décontractée en ville ou une séance d'entraînement intense, ce sweat à capuche répond à tous vos besoins avec élégance et confort.
 ---
