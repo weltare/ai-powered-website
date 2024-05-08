@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Abdoulaye DOUCOURE
-  location: Emplacement #Location
+  location: Sponsors #Location
   social: Autour du Web #Around the Web
   credits: Crédits #Credits
 
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: PAR
+  - line: [Ethercourt Machine Learning](https://ethercourt.github.io/strategies/)
   - line: BKO
 
 # Credits content
