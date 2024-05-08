@@ -53,10 +53,10 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: <a href="https://weltare.github.io/strategies/">WELTARE Strategies</a>
-  - line: BKO
+  - line: <a href="https://ethercourt.github.io/strategies/">Ethercourt Machine Learning</a>
 
 # Credits content
-credits: 'Investir en mode IA est édité par <a href="https://ethercourt.github.io/strategies/">Ethercourt Machine Learning</a>.'
+credits: 'Le site Investir en mode IA est édité par AMMI.'
 
 # Build settings
 markdown: kramdown
