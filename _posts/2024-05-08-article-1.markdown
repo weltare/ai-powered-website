@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2024-05-08
-img: BookBrushImage3D-03Flat.png
-alt:	Image livre 3D "Les Relations Investisseurs assistés par l'Intelligence Artificielle"
-project-date: €60
-client: Livre "Les Relations Investisseurs assistés par l'Intelligence Artificielle"
-category: 450 pages
-description: Ce guide explore les défis actuels de la levée de fonds pour les startups et met en lumière l'innovation disruptive que représente l'intelligence artificielle conversationnelle dans l'optimisation de ce processus crucial. Découvrez comment exploiter cette technologie de pointe pour devancer la concurrence et propulser votre passage à l’échelle.
+img: all-over-print-drawstring-bag-white-mockup-663ba53eddfb5.png
+alt:	Le Sac à dos tout imprimé
+project-date: €46.50
+client: Le Sac à dos tout imprimé
+category: Capacité de 15 litres
+description: Plus qu'un simple sac, un véritable accessoire pour exprimer votre personnalité unique. Transportez votre ordinateur portable, votre livre et votre Coupe-vent avec style.
 ---
